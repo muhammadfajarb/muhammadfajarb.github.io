@@ -1,0 +1,24 @@
+# Site settings
+title: Muhammad Fajar B's Portfolio Site
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Muhammad Fajar B
+user_description: Hello World! I am <b>Muhammad Fajar B</b> based in Makassar, South Celebes, Indonesia. I like to create stylish, clean, creative, dan powerfull stuff. I seek to bring meaning into system.
+user_title: Web & iOS Developer
+email: muhammadfajarb@gmail.com
+facebook_username: muhammadfajarb
+wordpress_site: https://slackhat.wordpress.com
+linkedin_username: muhammadfajarb
+twitter_username: slack_hat
+github_username:  muhammadfajarb
+gplus_username:  107261216099119247729
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+include: ["_pages"]
+exclude: ['package.json', 'src' , 'node_modules']

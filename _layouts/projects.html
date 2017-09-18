@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head_projects.html %}
+  <body>
+  
+  	<!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top" style="height: 0px;">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Muhammad Fajar B</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="mailto:{{site.email}}">Email</a></li>
+                <li><a target="_blank" href="https://facebook.com/{{site.facebook_username}}">Facebook</a></li>
+                <li><a target="_blank" href="https://linkedin.com/in/{{site.linkedin_username}}">Linked In</a></li>
+                <li><a target="_blank" href="{{site.wordpress_site}}">Blog</a></li>
+                <li><a target="_blank" href="https://github.com/{{site.github_username}}">Github</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+	<section id="projects" style="margin-top: 70px;">
+	{% include all_projects.html %}
+	</section>
+	{% include footer_projects.html %}
+
+  </body>
