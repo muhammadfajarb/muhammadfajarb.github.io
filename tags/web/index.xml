@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web on Muhammad Fajar B</title><link>https://muhammadfajarb.github.io/tags/web/</link><description>Recent content in Web on Muhammad Fajar B</description><generator>Hugo -- gohugo.io</generator><language>id</language><copyright>© 2025 Muhammad Fajar B</copyright><atom:link href="https://muhammadfajarb.github.io/tags/web/index.xml" rel="self" type="application/rss+xml"/><item><title>Pengantar Pemrograman Web</title><link>https://muhammadfajarb.github.io/courses/web-programming/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/web-programming/introduction/</guid><description>&lt;h2 class="relative group">Apa itu Pemrograman Web?
+&lt;div id="apa-itu-pemrograman-web" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#apa-itu-pemrograman-web" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Pemrograman web adalah proses pembuatan dan pengembangan situs web atau aplikasi berbasis web menggunakan bahasa pemrograman. Dalam dunia digital yang serba terhubung ini, hampir setiap aktivitas manusia, mulai dari belanja online hingga berkomunikasi, dilakukan melalui aplikasi web. Materi yang sedang kamu baca pada kursus ini juga merupakan contoh pemanfaatan web. Pemrograman web tidak hanya mencakup pembuatan tampilan yang menarik, tetapi juga pengelolaan interaksi pengguna, pengolahan data, dan memastikan aplikasi dapat berjalan dengan baik di berbagai perangkat.&lt;/p></description></item><item><title>HTML (Hyper Text Markup Language)</title><link>https://muhammadfajarb.github.io/courses/web-programming/html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/web-programming/html/</guid><description>&lt;h2 class="relative group">Apa itu HTML?
+&lt;div id="apa-itu-html" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#apa-itu-html" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>HTML adalah singkatan dari Hyper Text Markup Language.&lt;/li>
+&lt;li>HTML adalah bahasa markup standar untuk membuat halaman web.&lt;/li>
+&lt;li>HTML menggambarkan struktur dari sebuah halaman web.&lt;/li>
+&lt;li>HTML terdiri dari serangkaian elemen.&lt;/li>
+&lt;li>Elemen-elemen HTML memberi tahu browser bagaimana cara menampilkan konten.&lt;/li>
+&lt;li>Elemen-elemen HTML memberi label pada bagian-bagian konten seperti &amp;ldquo;ini adalah judul&amp;rdquo;, &amp;ldquo;ini adalah paragraf&amp;rdquo;, &amp;ldquo;ini adalah tautan&amp;rdquo;, dan sebagainya.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Dokumen HTML Sederhana
+&lt;div id="dokumen-html-sederhana" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumen-html-sederhana" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Page Title&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Heading Pertamaku&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Paragraf Pertamaku&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Penjelasan Kode
+&lt;div id="penjelasan-kode" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#penjelasan-kode" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Deklarasi &lt;code>&amp;lt;!DOCTYPE html&amp;gt;&lt;/code> mendefinisikan bahwa dokumen ini adalah dokumen HTML5.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;html&amp;gt;&lt;/code> adalah elemen akar dari halaman HTML.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;head&amp;gt;&lt;/code> berisi informasi meta tentang halaman HTML.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;title&amp;gt;&lt;/code> menentukan judul untuk halaman HTML (yang ditampilkan di tab judul browser atau di tab halaman).&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;body&amp;gt;&lt;/code> mendefinisikan tubuh dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, tautan, tabel, daftar, dll.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;h1&amp;gt;&lt;/code> mendefinisikan sebuah judul besar.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;p&amp;gt;&lt;/code> mendefinisikan sebuah paragraf.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Elemen HTML
+&lt;div id="elemen-html" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#elemen-html" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Elemen HTML adalah komponen dasar yang membentuk struktur sebuah halaman web. Setiap elemen HTML terdiri dari tag pembuka, konten, dan tag penutup. Tag pembuka biasanya dimulai dengan tanda kurung sudut (&lt;code>&amp;lt;&lt;/code> dan &lt;code>&amp;gt;&lt;/code>) diikuti dengan nama elemen, sementara tag penutup memiliki tanda miring di awal (&lt;code>&amp;lt;/&amp;gt;&lt;/code>). Elemen-elemen HTML digunakan untuk memberi tahu browser bagaimana menampilkan konten di halaman web, seperti teks, gambar, video, atau tabel. Contohnya, elemen &lt;code>&amp;lt;h1&amp;gt;&lt;/code> digunakan untuk membuat judul besar, sedangkan &lt;code>&amp;lt;p&amp;gt;&lt;/code> digunakan untuk membuat paragraf. Elemen-elemen ini juga bisa memiliki atribut, yang memberikan informasi tambahan tentang elemen tersebut, seperti &lt;code>class&lt;/code>, &lt;code>id&lt;/code>, atau &lt;code>style&lt;/code>. Dengan menggunakan elemen-elemen HTML, pengembang web dapat menyusun dan menyajikan konten secara terstruktur di halaman web.&lt;/p></description></item></channel></rss>

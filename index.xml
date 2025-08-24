@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Muhammad Fajar B</title><link>https://muhammadfajarb.github.io/</link><description>Recent content on Muhammad Fajar B</description><generator>Hugo -- gohugo.io</generator><language>id</language><copyright>© 2025 Muhammad Fajar B</copyright><lastBuildDate>Mon, 04 Aug 2025 06:47:00 +0800</lastBuildDate><atom:link href="https://muhammadfajarb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Era Perkembangan Artificial Intelligence: Machine Learning dan Computer Vision</title><link>https://muhammadfajarb.github.io/courses/machine-learning/content-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/machine-learning/content-examples/</guid><description>&lt;p>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Tip:&lt;/strong> If you&amp;rsquo;re new to Hugo, be sure to check out the &lt;a
+href="https://gohugo.io/content-management/page-bundles/"
+target="_blank"
+>official docs&lt;/a> to learn more about the concept of page bundles and resources.&lt;/span>
+&lt;/div>
+&lt;p>The examples on this page can all be adapted to different scenarios but hopefully give you some ideas about how to approach formatting a particular content item for your individual project.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/courses/machine-learning/content-examples/featured.svg"/></item><item><title>n9o.xyz</title><link>https://muhammadfajarb.github.io/users/e8b2eb823290677fbba3390d5cef2c35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e8b2eb823290677fbba3390d5cef2c35/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e8b2eb823290677fbba3390d5cef2c35/feature.jpg"/></item><item><title>Pengantar Pemrograman Web</title><link>https://muhammadfajarb.github.io/courses/web-programming/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/web-programming/introduction/</guid><description>&lt;h2 class="relative group">Apa itu Pemrograman Web?
+&lt;div id="apa-itu-pemrograman-web" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#apa-itu-pemrograman-web" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Pemrograman web adalah proses pembuatan dan pengembangan situs web atau aplikasi berbasis web menggunakan bahasa pemrograman. Dalam dunia digital yang serba terhubung ini, hampir setiap aktivitas manusia, mulai dari belanja online hingga berkomunikasi, dilakukan melalui aplikasi web. Materi yang sedang kamu baca pada kursus ini juga merupakan contoh pemanfaatan web. Pemrograman web tidak hanya mencakup pembuatan tampilan yang menarik, tetapi juga pengelolaan interaksi pengguna, pengolahan data, dan memastikan aplikasi dapat berjalan dengan baik di berbagai perangkat.&lt;/p></description></item><item><title>Welcome to Blowfish</title><link>https://muhammadfajarb.github.io/docs/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/welcome/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish is packed with tons of features.
+&lt;/div>
+&lt;p>The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of &lt;a target="_blank" href="https://github.com/nunocoracao/congo">Congo&lt;/a> and expands its initial vision.&lt;/p>
+&lt;h2 class="relative group">Tailwind CSS 3.0
+&lt;div id="tailwind-css-30" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#tailwind-css-30" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Tailwind CSS is at the heart of Blowfish and this release contains the very latest &lt;a
+href="https://tailwindcss.com/blog/tailwindcss-v3"
+target="_blank"
+>Tailwind CSS version 3&lt;/a>. It brings with it performance optimisations and support for some great new CSS features.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/welcome/featured.svg"/></item><item><title>Firebase: Views &amp; Likes</title><link>https://muhammadfajarb.github.io/courses/machine-learning/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/machine-learning/firebase-views/</guid><description>&lt;p>In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p>
+&lt;ol>
+&lt;li>Go to &lt;a target="_blank" href="https://firebase.com">Firebase website&lt;/a> and create an account for free&lt;/li>
+&lt;li>Create a new project&lt;/li>
+&lt;li>Select analytics location&lt;/li>
+&lt;li>Setup firebase in Blowfish by getting the variables for your project and setting them inside &lt;code>params.toml&lt;/code> file. More details can be found in &lt;a target="_blank" href="https://muhammadfajarb.github.io/docs/configuration/#theme-parameters">this page&lt;/a>. You can find an example of the file Firebase will provide below, notice the parameters within the FirebaseConfig object.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Import the functions you need from the SDKs you need
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">initializeApp&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/app&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">getAnalytics&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/analytics&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// TODO: Add SDKs for Firebase products that you want to use
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// https://firebase.google.com/docs/web/setup#available-libraries
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Your web app&amp;#39;s Firebase configuration
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">firebaseConfig&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">apiKey&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">authDomain&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.firebaseapp.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">projectId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">storageBucket&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.appspot.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">messagingSenderId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;60108104191&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">appId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;1:60108104191:web:039842ebe1370698b487ca&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">measurementId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;G-PEDMYR1V0K&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">};&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Initialize Firebase
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">app&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">initializeApp&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">firebaseConfig&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">analytics&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">getAnalytics&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">app&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="5">
+&lt;li>Setup Firestore - Select Build and open Firestore. Create a new database and choose to start in production mode. Select server location and wait. Once that is started you need to configure the rules. Just copy and paste the file below and press publish.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">rules_version = &amp;#39;2&amp;#39;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service cloud.firestore {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /databases/{database}/documents {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /{document=**} {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> allow read, write: if request.auth != null;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="6">
+&lt;li>Enable anonymous authorization - Select Build and open Authentication. Select get started, click Anonymous and turn it on, save.&lt;/li>
+&lt;li>Enjoy - you can now activate views and likes on Blowfish for all (or specific) articles.&lt;/li>
+&lt;/ol></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/courses/machine-learning/firebase-views/featured.svg"/></item><item><title>HTML (Hyper Text Markup Language)</title><link>https://muhammadfajarb.github.io/courses/web-programming/html/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/web-programming/html/</guid><description>&lt;h2 class="relative group">Apa itu HTML?
+&lt;div id="apa-itu-html" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#apa-itu-html" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>HTML adalah singkatan dari Hyper Text Markup Language.&lt;/li>
+&lt;li>HTML adalah bahasa markup standar untuk membuat halaman web.&lt;/li>
+&lt;li>HTML menggambarkan struktur dari sebuah halaman web.&lt;/li>
+&lt;li>HTML terdiri dari serangkaian elemen.&lt;/li>
+&lt;li>Elemen-elemen HTML memberi tahu browser bagaimana cara menampilkan konten.&lt;/li>
+&lt;li>Elemen-elemen HTML memberi label pada bagian-bagian konten seperti &amp;ldquo;ini adalah judul&amp;rdquo;, &amp;ldquo;ini adalah paragraf&amp;rdquo;, &amp;ldquo;ini adalah tautan&amp;rdquo;, dan sebagainya.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Dokumen HTML Sederhana
+&lt;div id="dokumen-html-sederhana" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumen-html-sederhana" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Page Title&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Heading Pertamaku&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">h1&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Paragraf Pertamaku&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Penjelasan Kode
+&lt;div id="penjelasan-kode" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#penjelasan-kode" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>Deklarasi &lt;code>&amp;lt;!DOCTYPE html&amp;gt;&lt;/code> mendefinisikan bahwa dokumen ini adalah dokumen HTML5.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;html&amp;gt;&lt;/code> adalah elemen akar dari halaman HTML.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;head&amp;gt;&lt;/code> berisi informasi meta tentang halaman HTML.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;title&amp;gt;&lt;/code> menentukan judul untuk halaman HTML (yang ditampilkan di tab judul browser atau di tab halaman).&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;body&amp;gt;&lt;/code> mendefinisikan tubuh dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, tautan, tabel, daftar, dll.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;h1&amp;gt;&lt;/code> mendefinisikan sebuah judul besar.&lt;/li>
+&lt;li>Elemen &lt;code>&amp;lt;p&amp;gt;&lt;/code> mendefinisikan sebuah paragraf.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Elemen HTML
+&lt;div id="elemen-html" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#elemen-html" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Elemen HTML adalah komponen dasar yang membentuk struktur sebuah halaman web. Setiap elemen HTML terdiri dari tag pembuka, konten, dan tag penutup. Tag pembuka biasanya dimulai dengan tanda kurung sudut (&lt;code>&amp;lt;&lt;/code> dan &lt;code>&amp;gt;&lt;/code>) diikuti dengan nama elemen, sementara tag penutup memiliki tanda miring di awal (&lt;code>&amp;lt;/&amp;gt;&lt;/code>). Elemen-elemen HTML digunakan untuk memberi tahu browser bagaimana menampilkan konten di halaman web, seperti teks, gambar, video, atau tabel. Contohnya, elemen &lt;code>&amp;lt;h1&amp;gt;&lt;/code> digunakan untuk membuat judul besar, sedangkan &lt;code>&amp;lt;p&amp;gt;&lt;/code> digunakan untuk membuat paragraf. Elemen-elemen ini juga bisa memiliki atribut, yang memberikan informasi tambahan tentang elemen tersebut, seperti &lt;code>class&lt;/code>, &lt;code>id&lt;/code>, atau &lt;code>style&lt;/code>. Dengan menggunakan elemen-elemen HTML, pengembang web dapat menyusun dan menyajikan konten secara terstruktur di halaman web.&lt;/p></description></item><item><title>Installation</title><link>https://muhammadfajarb.github.io/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/installation/</guid><description>&lt;p>Simply follow the standard Hugo &lt;a
+href="https://gohugo.io/getting-started/quick-start/"
+target="_blank"
+>Quick Start&lt;/a> procedure to get up and running quickly.&lt;/p>
+&lt;p>Detailed installation instructions can be found below. Instructions for &lt;a
+href="#installing-updates">updating the theme&lt;/a> are also available.&lt;/p>
+&lt;h2 class="relative group">Installation
+&lt;div id="installation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installation" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/installation/featured.svg"/></item><item><title>madoke.org</title><link>https://muhammadfajarb.github.io/users/96d3e57dcc931de55cc23a825d40be2c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/96d3e57dcc931de55cc23a825d40be2c/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/96d3e57dcc931de55cc23a825d40be2c/feature.jpg"/></item><item><title>code-chimp.com</title><link>https://muhammadfajarb.github.io/users/4bc0917e04c4859cedb32a48bff27846/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4bc0917e04c4859cedb32a48bff27846/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4bc0917e04c4859cedb32a48bff27846/feature.jpg"/></item><item><title>Firebase: Views &amp; Likes</title><link>https://muhammadfajarb.github.io/courses/machine-learning/third-part/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/courses/machine-learning/third-part/</guid><description>&lt;p>In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p>
+&lt;ol>
+&lt;li>Go to &lt;a target="_blank" href="https://firebase.com">Firebase website&lt;/a> and create an account for free&lt;/li>
+&lt;li>Create a new project&lt;/li>
+&lt;li>Select analytics location&lt;/li>
+&lt;li>Setup firebase in Blowfish by getting the variables for your project and setting them inside &lt;code>params.toml&lt;/code> file. More details can be found in &lt;a target="_blank" href="https://muhammadfajarb.github.io/docs/configuration/#theme-parameters">this page&lt;/a>. You can find an example of the file Firebase will provide below, notice the parameters within the FirebaseConfig object.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Import the functions you need from the SDKs you need
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">initializeApp&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/app&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">getAnalytics&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/analytics&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// TODO: Add SDKs for Firebase products that you want to use
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// https://firebase.google.com/docs/web/setup#available-libraries
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Your web app&amp;#39;s Firebase configuration
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">firebaseConfig&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">apiKey&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">authDomain&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.firebaseapp.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">projectId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">storageBucket&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.appspot.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">messagingSenderId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;60108104191&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">appId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;1:60108104191:web:039842ebe1370698b487ca&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">measurementId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;G-PEDMYR1V0K&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">};&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Initialize Firebase
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">app&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">initializeApp&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">firebaseConfig&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">analytics&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">getAnalytics&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">app&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="5">
+&lt;li>Setup Firestore - Select Build and open Firestore. Create a new database and choose to start in production mode. Select server location and wait. Once that is started you need to configure the rules. Just copy and paste the file below and press publish.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">rules_version = &amp;#39;2&amp;#39;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service cloud.firestore {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /databases/{database}/documents {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /{document=**} {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> allow read, write: if request.auth != null;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="6">
+&lt;li>Enable anonymous authorization - Select Build and open Authentication. Select get started, click Anonymous and turn it on, save.&lt;/li>
+&lt;li>Enjoy - you can now activate views and likes on Blowfish for all (or specific) articles.&lt;/li>
+&lt;/ol></description></item><item><title>Getting Started</title><link>https://muhammadfajarb.github.io/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/getting-started/</guid><description>&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>This section assumes you have already &lt;a
+href="https://muhammadfajarb.github.io/docs/installation/"
+target="_blank"
+>installed the Blowfish theme&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;/br>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+&lt;path fill="currentColor" d="M159.3 5.4c7.8-7.3 19.9-7.2 27.7 .1c27.6 25.9 53.5 53.8 77.7 84c11-14.4 23.5-30.1 37-42.9c7.9-7.4 20.1-7.4 28 .1c34.6 33 63.9 76.6 84.5 118c20.3 40.8 33.8 82.5 33.8 111.9C448 404.2 348.2 512 224 512C98.4 512 0 404.1 0 276.5c0-38.4 17.8-85.3 45.4-131.7C73.3 97.7 112.7 48.6 159.3 5.4zM225.7 416c25.3 0 47.7-7 68.8-21c42.1-29.4 53.4-88.2 28.1-134.4c-2.8-5.6-5.6-11.2-9.8-16.8l-50.6 58.8s-81.4-103.6-87.1-110.6C133.1 243.8 112 273.2 112 306.8C112 375.4 162.6 416 225.7 416z"/>&lt;/svg>&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;p>We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/getting-started/featured.svg"/></item><item><title>Configuration</title><link>https://muhammadfajarb.github.io/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/configuration/</guid><description>&lt;p>Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.&lt;/p>
+&lt;p>The theme ships with a default configuration that gets you up and running with a basic blog or static website.&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+&lt;path fill="currentColor" d="M159.3 5.4c7.8-7.3 19.9-7.2 27.7 .1c27.6 25.9 53.5 53.8 77.7 84c11-14.4 23.5-30.1 37-42.9c7.9-7.4 20.1-7.4 28 .1c34.6 33 63.9 76.6 84.5 118c20.3 40.8 33.8 82.5 33.8 111.9C448 404.2 348.2 512 224 512C98.4 512 0 404.1 0 276.5c0-38.4 17.8-85.3 45.4-131.7C73.3 97.7 112.7 48.6 159.3 5.4zM225.7 416c25.3 0 47.7-7 68.8-21c42.1-29.4 53.4-88.2 28.1-134.4c-2.8-5.6-5.6-11.2-9.8-16.8l-50.6 58.8s-81.4-103.6-87.1-110.6C133.1 243.8 112 273.2 112 306.8C112 375.4 162.6 416 225.7 416z"/>&lt;/svg>&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;p>We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/configuration/featured.svg"/></item><item><title>mucahitkurtlar.github.io</title><link>https://muhammadfajarb.github.io/users/9d028495840ad385e6cb3ccf051dca22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9d028495840ad385e6cb3ccf051dca22/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9d028495840ad385e6cb3ccf051dca22/feature.jpg"/></item><item><title>brendanwallace.github.io</title><link>https://muhammadfajarb.github.io/users/64ef36564d497eed256b9f4c56b1184e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/64ef36564d497eed256b9f4c56b1184e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/64ef36564d497eed256b9f4c56b1184e/feature.jpg"/></item><item><title>Homepage Layout</title><link>https://muhammadfajarb.github.io/docs/homepage-layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/homepage-layout/</guid><description>&lt;p>Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p>
+&lt;p>The layout of the homepage is controlled by the &lt;code>homepage.layout&lt;/code> setting in the &lt;code>params.toml&lt;/code> configuration file. Additionally, all layouts have the option to include a listing of &lt;a
+href="#recent-articles">recent articles&lt;/a>.&lt;/p>
+&lt;h2 class="relative group">Profile layout
+&lt;div id="profile-layout" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#profile-layout" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The default layout is the profile layout, which is great for personal websites and blogs. It puts the author&amp;rsquo;s details front and centre by providing an image and links to social profiles.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/homepage-layout/featured.svg"/></item><item><title>pmnxis.github.io</title><link>https://muhammadfajarb.github.io/users/5bf94b5c1e0c4a40d81816df85e1444f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/5bf94b5c1e0c4a40d81816df85e1444f/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/5bf94b5c1e0c4a40d81816df85e1444f/feature.jpg"/></item><item><title>Shortcodes</title><link>https://muhammadfajarb.github.io/docs/shortcodes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/shortcodes/</guid><description>&lt;p>In addition to all the &lt;a
+href="https://gohugo.io/content-management/shortcodes/"
+target="_blank"
+>default Hugo shortcodes&lt;/a>, Blowfish adds a few extras for additional functionality.&lt;/p>
+&lt;h2 class="relative group">Alert
+&lt;div id="alert" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#alert" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;code>alert&lt;/code> outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p>
+&lt;!-- prettier-ignore-start -->
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Parameter&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>icon&lt;/code>&lt;/td>
+&lt;td>&lt;strong>Optional.&lt;/strong> the icon to display on the left side.&lt;br>&lt;strong>Default:&lt;/strong> &lt;code>triangle-exclamation&lt;/code> (Check out the &lt;a
+href="#icon">icon shortcode&lt;/a> for more details on using icons.)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>iconColor&lt;/code>&lt;/td>
+&lt;td>&lt;strong>Optional.&lt;/strong> the color for the icon in basic CSS style.&lt;br>Can be either hex values (&lt;code>#FFFFFF&lt;/code>) or color names (&lt;code>white&lt;/code>)&lt;br>By default chosen based on the current color theme .&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>cardColor&lt;/code>&lt;/td>
+&lt;td>&lt;strong>Optional.&lt;/strong> the color for the card background in basic CSS style.&lt;br>Can be either hex values (&lt;code>#FFFFFF&lt;/code>) or color names (&lt;code>white&lt;/code>)&lt;br>By default chosen based on the current color theme .&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>textColor&lt;/code>&lt;/td>
+&lt;td>&lt;strong>Optional.&lt;/strong> the color for the text in basic CSS style.&lt;br>Can be either hex values (&lt;code>#FFFFFF&lt;/code>) or color names (&lt;code>white&lt;/code>)&lt;br>By default chosen based on the current color theme .&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;!-- prettier-ignore-end -->
+&lt;p>The input is written in Markdown so you can format it however you please.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/shortcodes/featured.svg"/></item><item><title>ciicadalab.github.io</title><link>https://muhammadfajarb.github.io/users/ef51c7b9654a4f2d13525eb80ee46cdf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/ef51c7b9654a4f2d13525eb80ee46cdf/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/ef51c7b9654a4f2d13525eb80ee46cdf/feature.jpg"/></item><item><title>Front Matter</title><link>https://muhammadfajarb.github.io/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/front-matter/</guid><description>&lt;p>In addition to the &lt;a
+href="https://gohugo.io/content-management/front-matter/#front-matter-variables"
+target="_blank"
+>default Hugo front matter parameters&lt;/a>, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p>
+&lt;p>Front matter parameter default values are inherited from the theme&amp;rsquo;s &lt;a
+href="https://muhammadfajarb.github.io/docs/configuration/">base configuration&lt;/a>, so you only need to specify these parameters in your front matter when you want to override the default.&lt;/p>
+&lt;!-- prettier-ignore-start -->
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Default&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>title&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>The name of the article.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>description&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>The text description for the article. It is used in the HTML metadata.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>externalUrl&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>If this article is published on a third-party website, the URL to this article. Providing a URL will prevent a content page being generated and any references to this article will link directly to the third-party website.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>editURL&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.editURL&lt;/code>&lt;/td>
+&lt;td>When &lt;code>showEdit&lt;/code> is active, the URL for the edit link.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>editAppendPath&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.editAppendPath&lt;/code>&lt;/td>
+&lt;td>When &lt;code>showEdit&lt;/code> is active, whether or not the path to the current article should be appended to the URL set at &lt;code>editURL&lt;/code>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>groupByYear&lt;/code>&lt;/td>
+&lt;td>&lt;code>list.groupByYear&lt;/code>&lt;/td>
+&lt;td>Whether or not articles are grouped by year on list pages.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>menu&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>When a value is provided, a link to this article will appear in the named menus. Valid values are &lt;code>main&lt;/code> or &lt;code>footer&lt;/code>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>robots&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>String that indicates how robots should handle this article. If set, it will be output in the page head. Refer to &lt;a
+href="https://developers.google.com/search/docs/advanced/robots/robots_meta_tag#directives"
+target="_blank"
+>Google&amp;rsquo;s docs&lt;/a> for valid values.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>sharingLinks&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.sharingLinks&lt;/code>&lt;/td>
+&lt;td>Which sharing links to display at the end of this article. When not provided, or set to &lt;code>false&lt;/code> no links will be displayed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showAuthor&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showAuthor&lt;/code>&lt;/td>
+&lt;td>Whether or not the author box for the default author is displayed in the article footer.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showAuthorBottom&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showAuthorBottom&lt;/code>&lt;/td>
+&lt;td>Author boxes are displayed at the bottom of each page instead of the top.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>authors&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>Array of values for authors, if set it overrides &lt;code>showAuthor&lt;/code> settings for page or site. Used on the multiple authors feature, check &lt;a
+href="https://muhammadfajarb.github.io/docs/multi-author/">this page&lt;/a> for more details on how to configure that feature.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showAuthorsBadges&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showAuthorsBadges&lt;/code>&lt;/td>
+&lt;td>Whether the &lt;code>authors&lt;/code> taxonomies are are displayed in the article or list header. This requires the setup of &lt;code>multiple authors&lt;/code> and the &lt;code>authors&lt;/code> taxonomy. Check &lt;a
+href="https://muhammadfajarb.github.io/docs/multi-author/">this page&lt;/a> for more details on how to configure that feature.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>featureimage&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>External URL for feature image&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>featureimagecaption&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>Caption for feature image. Only displayed in heroStyle &lt;code>big&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showHero&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showHero&lt;/code>&lt;/td>
+&lt;td>Whether the thumbnail image will be shown as a hero image within the article page.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>heroStyle&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.heroStyle&lt;/code>&lt;/td>
+&lt;td>Style to display the hero image, valid options are: &lt;code>basic&lt;/code>, &lt;code>big&lt;/code>, &lt;code>background&lt;/code>, &lt;code>thumbAndBackground&lt;/code>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showBreadcrumbs&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showBreadcrumbs&lt;/code> or &lt;code>list.showBreadcrumbs&lt;/code>&lt;/td>
+&lt;td>Whether the breadcrumbs are displayed in the article or list header.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showDate&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showDate&lt;/code>&lt;/td>
+&lt;td>Whether or not the article date is displayed. The date is set using the &lt;code>date&lt;/code> parameter.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showDateUpdated&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showDateUpdated&lt;/code>&lt;/td>
+&lt;td>Whether or not the date the article was updated is displayed. The date is set using the &lt;code>lastmod&lt;/code> parameter.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showEdit&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showEdit&lt;/code>&lt;/td>
+&lt;td>Whether or not the link to edit the article content should be displayed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showHeadingAnchors&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showHeadingAnchors&lt;/code>&lt;/td>
+&lt;td>Whether or not heading anchor links are displayed alongside headings within this article.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showPagination&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showPagination&lt;/code>&lt;/td>
+&lt;td>Whether or not the next/previous article links are displayed in the article footer.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>invertPagination&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.invertPagination&lt;/code>&lt;/td>
+&lt;td>Whether or not to flip the direction of the next/previous article links.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showReadingTime&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showReadingTime&lt;/code>&lt;/td>
+&lt;td>Whether or not the article reading time is displayed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showTaxonomies&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showTaxonomies&lt;/code>&lt;/td>
+&lt;td>Whether or not the taxonomies that relate to this article are displayed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showTableOfContents&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showTableOfContents&lt;/code>&lt;/td>
+&lt;td>Whether or not the table of contents is displayed on this article.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showWordCount&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showWordCount&lt;/code>&lt;/td>
+&lt;td>Whether or not the article word count is displayed.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showComments&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showComments&lt;/code>&lt;/td>
+&lt;td>Whether or not the &lt;a
+href="https://muhammadfajarb.github.io/docs/partials/#comments">comments partial&lt;/a> is included after the article footer.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showSummary&lt;/code>&lt;/td>
+&lt;td>&lt;code>list.showSummary&lt;/code>&lt;/td>
+&lt;td>Whether or not the article summary should be displayed on list pages.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showViews&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showViews&lt;/code>&lt;/td>
+&lt;td>Whether or not the article views should be displayed in lists and detailed view. This requires a firebase integration. Check &lt;a
+href="https://muhammadfajarb.github.io/docs/firebase-views/">this page&lt;/a> for a guide on how to integrate Firebase into Blowfish&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>showLikes&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.showLikes&lt;/code>&lt;/td>
+&lt;td>Whether or not the article likes should be displayed in lists and detailed view. This requires a firebase integration. Check &lt;a
+href="https://muhammadfajarb.github.io/docs/firebase-views/">this page&lt;/a> for a guide on how to integrate Firebase into Blowfish&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>seriesOpened&lt;/code>&lt;/td>
+&lt;td>&lt;code>article.seriesOpened&lt;/code>&lt;/td>
+&lt;td>Whether or not the series module will be displayed open by default or not.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>series&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>Array of series the article belongs to, we recommend using only one series per article.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>series_order&lt;/code>&lt;/td>
+&lt;td>&lt;em>Not set&lt;/em>&lt;/td>
+&lt;td>Number of the article within the series.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>summary&lt;/code>&lt;/td>
+&lt;td>Auto generated using &lt;code>summaryLength&lt;/code> (see &lt;a
+href="https://muhammadfajarb.github.io/docs/configuration/#site-configuration">site configuration&lt;/a>)&lt;/td>
+&lt;td>When &lt;code>showSummary&lt;/code> is enabled, this is the Markdown string to be used as the summary for this article.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>xml&lt;/code>&lt;/td>
+&lt;td>&lt;code>true&lt;/code> unless excluded by &lt;code>sitemap.excludedKinds&lt;/code>&lt;/td>
+&lt;td>Whether or not this article is included in the generated &lt;code>/sitemap.xml&lt;/code> file.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>layoutBackgroundBlur&lt;/code>&lt;/td>
+&lt;td>&lt;code>true&lt;/code>&lt;/td>
+&lt;td>Makes the background image in the background heroStyle blur with the scroll&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>layoutBackgroundHeaderSpace&lt;/code>&lt;/td>
+&lt;td>&lt;code>true&lt;/code>&lt;/td>
+&lt;td>Add space between the header and the body.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;!-- prettier-ignore-end --></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/front-matter/featured.svg"/></item><item><title>georgiancodeclub.github.io</title><link>https://muhammadfajarb.github.io/users/25036bf87aa99ef82e09089a1ddbb9eb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/25036bf87aa99ef82e09089a1ddbb9eb/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/25036bf87aa99ef82e09089a1ddbb9eb/feature.jpg"/></item><item><title>Multiple Authors</title><link>https://muhammadfajarb.github.io/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/multi-author/</guid><description>&lt;p>Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p>
+&lt;p>To keep everything backwards compatible, this feature only allows the definition of extra authors and does not change in any way the previous author functionality which is used via config files.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/multi-author/featured.svg"/></item><item><title>fahru.my.id</title><link>https://muhammadfajarb.github.io/users/5440c85ea880d93157088032515962d3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/5440c85ea880d93157088032515962d3/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/5440c85ea880d93157088032515962d3/feature.jpg"/></item><item><title>Partials</title><link>https://muhammadfajarb.github.io/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/partials/</guid><description>&lt;h2 class="relative group">Analytics
+&lt;div id="analytics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#analytics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Blowfish provides built-in support for Fathom Analytics, Google Analytics and Umami Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.&lt;/p>
+&lt;h3 class="relative group">Fathom Analytics
+&lt;div id="fathom-analytics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#fathom-analytics" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>To enable Fathom Analytics support, simply provide your Fathom site code in the &lt;code>config/_default/params.toml&lt;/code> file. If you also use the custom domain feature of Fathom and would like to serve their script from your domain, you can also additionally provide the &lt;code>domain&lt;/code> configuration value. If you don&amp;rsquo;t provide a &lt;code>domain&lt;/code> value, the script will load directly from Fathom DNS.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/partials/featured.svg"/></item><item><title>loisvelasco.is-a.dev</title><link>https://muhammadfajarb.github.io/users/6c20c1af90023ed60919801cfba0f08f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6c20c1af90023ed60919801cfba0f08f/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6c20c1af90023ed60919801cfba0f08f/feature.jpg"/></item><item><title>Thumbnails</title><link>https://muhammadfajarb.github.io/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/thumbnails/</guid><description>&lt;h2 class="relative group">Thumbnails
+&lt;div id="thumbnails" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#thumbnails" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend &lt;code>.png&lt;/code> or &lt;code>.jpg&lt;/code>) that starts with &lt;code>feature*&lt;/code> inside your article&amp;rsquo;s main directory, as shown in the example below.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">content
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└── awesome_article
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├── index.md
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> └── featured.png
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This will tell Blowfish that this article has a feature image that can be used both as a thumbnail across your website as well as for &lt;a target="_blank" href="https://oembed.com/">oEmbed&lt;/a> cards across social platforms.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/thumbnails/featured.svg"/></item><item><title>Content Examples</title><link>https://muhammadfajarb.github.io/docs/content-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/content-examples/</guid><description>&lt;p>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Tip:&lt;/strong> If you&amp;rsquo;re new to Hugo, be sure to check out the &lt;a
+href="https://gohugo.io/content-management/page-bundles/"
+target="_blank"
+>official docs&lt;/a> to learn more about the concept of page bundles and resources.&lt;/span>
+&lt;/div>
+&lt;p>The examples on this page can all be adapted to different scenarios but hopefully give you some ideas about how to approach formatting a particular content item for your individual project.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/content-examples/featured.svg"/></item><item><title>insidemordecai.com</title><link>https://muhammadfajarb.github.io/users/7ee8520d5e9eadae8557be82f46ff18d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/7ee8520d5e9eadae8557be82f46ff18d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/7ee8520d5e9eadae8557be82f46ff18d/feature.jpg"/></item><item><title>blastomussa.dev</title><link>https://muhammadfajarb.github.io/users/4ea7eb30d575afb5183b02f31a661c42/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4ea7eb30d575afb5183b02f31a661c42/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4ea7eb30d575afb5183b02f31a661c42/feature.jpg"/></item><item><title>Series</title><link>https://muhammadfajarb.github.io/docs/series/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/series/</guid><description>&lt;p>Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p>
+&lt;h2 class="relative group">Create Taxonomy
+&lt;div id="create-taxonomy" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#create-taxonomy" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The first step to enable series is to create the &lt;code>series&lt;/code> taxonomy. For doing this just add the &lt;code>series&lt;/code> taxonomy to your taxonomy list in the &lt;code>config.toml&lt;/code>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/series/featured.svg"/></item><item><title>Advanced Customisation</title><link>https://muhammadfajarb.github.io/docs/advanced-customisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/advanced-customisation/</guid><description>&lt;p>There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p>
+&lt;p>If you need further advice, post your questions on &lt;a
+href="https://github.com/nunocoracao/blowfish/discussions"
+target="_blank"
+>GitHub Discussions&lt;/a>.&lt;/p>
+&lt;h2 class="relative group">Hugo project structure
+&lt;div id="hugo-project-structure" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hugo-project-structure" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Before leaping into it, first a quick note about &lt;a
+href="https://gohugo.io/getting-started/directory-structure/"
+target="_blank"
+>Hugo project structure&lt;/a> and best practices for managing your content and theme customisations.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/advanced-customisation/featured.svg"/></item><item><title>cdell.io</title><link>https://muhammadfajarb.github.io/users/db20512c1ee8daab423ea18268cb5910/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/db20512c1ee8daab423ea18268cb5910/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/db20512c1ee8daab423ea18268cb5910/feature.jpg"/></item><item><title>Hosting &amp; Deployment</title><link>https://muhammadfajarb.github.io/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/hosting-deployment/</guid><description>&lt;p>There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.&lt;/p>
+&lt;p>Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There&amp;rsquo;s usually no special configuration required for this to work as long as the &lt;code>baseURL&lt;/code> parameter has been configured in the &lt;code>config.toml&lt;/code> file.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/hosting-deployment/featured.svg"/></item><item><title>jam.dsg.li</title><link>https://muhammadfajarb.github.io/users/ee5d5eca13c3742f7a454a52424f9d73/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/ee5d5eca13c3742f7a454a52424f9d73/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/ee5d5eca13c3742f7a454a52424f9d73/feature.jpg"/></item><item><title>Firebase: Views &amp; Likes</title><link>https://muhammadfajarb.github.io/docs/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/firebase-views/</guid><description>&lt;p>In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p>
+&lt;ol>
+&lt;li>Go to &lt;a target="_blank" href="https://firebase.com">Firebase website&lt;/a> and create an account for free&lt;/li>
+&lt;li>Create a new project&lt;/li>
+&lt;li>Select analytics location&lt;/li>
+&lt;li>Setup firebase in Blowfish by getting the variables for your project and setting them inside &lt;code>params.toml&lt;/code> file. More details can be found in &lt;a target="_blank" href="https://muhammadfajarb.github.io/docs/configuration/#theme-parameters">this page&lt;/a>. You can find an example of the file Firebase will provide below, notice the parameters within the FirebaseConfig object.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Import the functions you need from the SDKs you need
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">initializeApp&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/app&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span> &lt;span class="nx">getAnalytics&lt;/span> &lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;firebase/analytics&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// TODO: Add SDKs for Firebase products that you want to use
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// https://firebase.google.com/docs/web/setup#available-libraries
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Your web app&amp;#39;s Firebase configuration
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">firebaseConfig&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">apiKey&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">authDomain&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.firebaseapp.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">projectId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">storageBucket&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;blowfish-21fff.appspot.com&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">messagingSenderId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;60108104191&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">appId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;1:60108104191:web:039842ebe1370698b487ca&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">measurementId&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;G-PEDMYR1V0K&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">};&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">// Initialize Firebase
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">app&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">initializeApp&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">firebaseConfig&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">analytics&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">getAnalytics&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">app&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="5">
+&lt;li>Setup Firestore - Select Build and open Firestore. Create a new database and choose to start in production mode. Select server location and wait. Once that is started you need to configure the rules. Just copy and paste the file below and press publish.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">rules_version = &amp;#39;2&amp;#39;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service cloud.firestore {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /databases/{database}/documents {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> match /{document=**} {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> allow read, write: if request.auth != null;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="6">
+&lt;li>Enable anonymous authorization - Select Build and open Authentication. Select get started, click Anonymous and turn it on, save.&lt;/li>
+&lt;li>Enjoy - you can now activate views and likes on Blowfish for all (or specific) articles.&lt;/li>
+&lt;/ol></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/docs/firebase-views/featured.svg"/></item><item><title>priyakdey.com</title><link>https://muhammadfajarb.github.io/users/72d71e304faaa40b3d547d5357edc450/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/72d71e304faaa40b3d547d5357edc450/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/72d71e304faaa40b3d547d5357edc450/feature.jpg"/></item><item><title>sdehm.dev</title><link>https://muhammadfajarb.github.io/users/1a882ded73613252bb07c2c13f40b9e3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1a882ded73613252bb07c2c13f40b9e3/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1a882ded73613252bb07c2c13f40b9e3/feature.jpg"/></item><item><title>dizzytech.de</title><link>https://muhammadfajarb.github.io/users/039ca94b0aeeb9ab4c95226615bfb840/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/039ca94b0aeeb9ab4c95226615bfb840/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/039ca94b0aeeb9ab4c95226615bfb840/feature.jpg"/></item><item><title>alejandro-ao.com</title><link>https://muhammadfajarb.github.io/users/620af4c12a7ee8932fadb45ae52bba7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/620af4c12a7ee8932fadb45ae52bba7e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/620af4c12a7ee8932fadb45ae52bba7e/feature.jpg"/></item><item><title>adir1.com</title><link>https://muhammadfajarb.github.io/users/64faf41f22317a170125dd7b2cd642e2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/64faf41f22317a170125dd7b2cd642e2/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/64faf41f22317a170125dd7b2cd642e2/feature.jpg"/></item><item><title>blog.muffn.io</title><link>https://muhammadfajarb.github.io/users/e07582d573aa187c3c15bb042872ca4a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e07582d573aa187c3c15bb042872ca4a/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e07582d573aa187c3c15bb042872ca4a/feature.jpg"/></item><item><title>nick.bouwhuis.net</title><link>https://muhammadfajarb.github.io/users/fd12be5b9c01f6b6089b8b1cbff1350d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/fd12be5b9c01f6b6089b8b1cbff1350d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/fd12be5b9c01f6b6089b8b1cbff1350d/feature.jpg"/></item><item><title>vividscc.com</title><link>https://muhammadfajarb.github.io/users/3bfa5ccb77cf79199527df4c0259d0dc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/3bfa5ccb77cf79199527df4c0259d0dc/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/3bfa5ccb77cf79199527df4c0259d0dc/feature.jpg"/></item><item><title>mariuskimmina.com</title><link>https://muhammadfajarb.github.io/users/9327a7a2a271822354f23963b0557368/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9327a7a2a271822354f23963b0557368/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9327a7a2a271822354f23963b0557368/feature.jpg"/></item><item><title>technicat.com</title><link>https://muhammadfajarb.github.io/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6ed0dcb17b6e24c166f7da0bdfb0c1f5/feature.jpg"/></item><item><title>fugugames.com</title><link>https://muhammadfajarb.github.io/users/e2ca3d6494c32151235beabe7567b23d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e2ca3d6494c32151235beabe7567b23d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e2ca3d6494c32151235beabe7567b23d/feature.jpg"/></item><item><title>hyperbowl3d.com</title><link>https://muhammadfajarb.github.io/users/129162dc71b9d40ee7948e51910d415a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/129162dc71b9d40ee7948e51910d415a/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/129162dc71b9d40ee7948e51910d415a/feature.jpg"/></item><item><title>talkdimsum.com</title><link>https://muhammadfajarb.github.io/users/80d4420e686d5a055bab647fa03d281b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/80d4420e686d5a055bab647fa03d281b/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/80d4420e686d5a055bab647fa03d281b/feature.jpg"/></item><item><title>alanctanner.com</title><link>https://muhammadfajarb.github.io/users/8168c3eeb157c9c9b1ca287393393f9c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/8168c3eeb157c9c9b1ca287393393f9c/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/8168c3eeb157c9c9b1ca287393393f9c/feature.jpg"/></item><item><title>rdgo.dev</title><link>https://muhammadfajarb.github.io/users/98f15180691d43fbfcbaf685e1b9ab06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/98f15180691d43fbfcbaf685e1b9ab06/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/98f15180691d43fbfcbaf685e1b9ab06/feature.jpg"/></item><item><title>clemsau.com</title><link>https://muhammadfajarb.github.io/users/66a61706d45b77b559869cd1247fe8fc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/66a61706d45b77b559869cd1247fe8fc/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/66a61706d45b77b559869cd1247fe8fc/feature.jpg"/></item><item><title>weaxsey.org</title><link>https://muhammadfajarb.github.io/users/5801e67070cd59e592c82693a1bda773/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/5801e67070cd59e592c82693a1bda773/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/5801e67070cd59e592c82693a1bda773/feature.jpg"/></item><item><title>nikarashihatsu.github.io</title><link>https://muhammadfajarb.github.io/users/c7116358255c4f5ccb306f7012306e22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/c7116358255c4f5ccb306f7012306e22/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/c7116358255c4f5ccb306f7012306e22/feature.jpg"/></item><item><title>halcyonstraits.com</title><link>https://muhammadfajarb.github.io/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/d8ebb1396d8c7d2233b33a6b3ca0adc4/feature.jpg"/></item><item><title>50-nuances-octets.fr</title><link>https://muhammadfajarb.github.io/users/24577d47b9474b6bc72eba9a6009dba4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/24577d47b9474b6bc72eba9a6009dba4/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/24577d47b9474b6bc72eba9a6009dba4/feature.jpg"/></item><item><title>marupanda.art/marucomics</title><link>https://muhammadfajarb.github.io/users/6e0c28f8b70015dd35f332d927960d06/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6e0c28f8b70015dd35f332d927960d06/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6e0c28f8b70015dd35f332d927960d06/feature.jpg"/></item><item><title>m3upt.com</title><link>https://muhammadfajarb.github.io/users/4d4fb24dca11a144122fa0bb831d9d03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4d4fb24dca11a144122fa0bb831d9d03/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4d4fb24dca11a144122fa0bb831d9d03/feature.jpg"/></item><item><title>pacochan.net</title><link>https://muhammadfajarb.github.io/users/c8eb3ba4d0e565e041ead9aabe6fc770/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/c8eb3ba4d0e565e041ead9aabe6fc770/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/c8eb3ba4d0e565e041ead9aabe6fc770/feature.jpg"/></item><item><title>vkmki001.github.io</title><link>https://muhammadfajarb.github.io/users/069e8f01e7ef48830ebea5239e2189b4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/069e8f01e7ef48830ebea5239e2189b4/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/069e8f01e7ef48830ebea5239e2189b4/feature.jpg"/></item><item><title>bbagwang.com</title><link>https://muhammadfajarb.github.io/users/43d57d92cc54037519270a0cb07dbb83/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/43d57d92cc54037519270a0cb07dbb83/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/43d57d92cc54037519270a0cb07dbb83/feature.jpg"/></item><item><title>jamiemoxon.tech</title><link>https://muhammadfajarb.github.io/users/d9e559aaa0c3488012725cc4699ff9c4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/d9e559aaa0c3488012725cc4699ff9c4/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/d9e559aaa0c3488012725cc4699ff9c4/feature.jpg"/></item><item><title>theindiecoder.cloud</title><link>https://muhammadfajarb.github.io/users/9eed597b03512bc7b7b4b3cf81814a37/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9eed597b03512bc7b7b4b3cf81814a37/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9eed597b03512bc7b7b4b3cf81814a37/feature.jpg"/></item><item><title>gma.name</title><link>https://muhammadfajarb.github.io/users/48ff442c7de299911eab10b72b02cc84/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/48ff442c7de299911eab10b72b02cc84/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/48ff442c7de299911eab10b72b02cc84/feature.jpg"/></item><item><title>mayer.life</title><link>https://muhammadfajarb.github.io/users/1b3c507d9cd618565898e6d099c0427d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1b3c507d9cd618565898e6d099c0427d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1b3c507d9cd618565898e6d099c0427d/feature.jpg"/></item><item><title>scottmckendry.tech</title><link>https://muhammadfajarb.github.io/users/d6d2aa4cd9e351e749136df67a27c136/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/d6d2aa4cd9e351e749136df67a27c136/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/d6d2aa4cd9e351e749136df67a27c136/feature.jpg"/></item><item><title>adilhyz.github.io</title><link>https://muhammadfajarb.github.io/users/9901f5943260b32ac3002c1002408f19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9901f5943260b32ac3002c1002408f19/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9901f5943260b32ac3002c1002408f19/feature.jpg"/></item><item><title>ohdmire.github.io</title><link>https://muhammadfajarb.github.io/users/fec44f5dd2be29e37c305696d018f99f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/fec44f5dd2be29e37c305696d018f99f/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/fec44f5dd2be29e37c305696d018f99f/feature.jpg"/></item><item><title>ricklan.photography</title><link>https://muhammadfajarb.github.io/users/954584ca9b811d77ac600cf7c426be45/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/954584ca9b811d77ac600cf7c426be45/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/954584ca9b811d77ac600cf7c426be45/feature.jpg"/></item><item><title>deepumohan.com/tech</title><link>https://muhammadfajarb.github.io/users/8032d46bf9c96ae4b59c419032c7ad89/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/8032d46bf9c96ae4b59c419032c7ad89/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/8032d46bf9c96ae4b59c419032c7ad89/feature.jpg"/></item><item><title>joush007.github.io</title><link>https://muhammadfajarb.github.io/users/b66472425d53d4e270e85ba4f160e7a1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/b66472425d53d4e270e85ba4f160e7a1/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/b66472425d53d4e270e85ba4f160e7a1/feature.jpg"/></item><item><title>rejowski.xyz</title><link>https://muhammadfajarb.github.io/users/8fc3ba43309eb4210c5da59847dab5ac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/8fc3ba43309eb4210c5da59847dab5ac/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/8fc3ba43309eb4210c5da59847dab5ac/feature.jpg"/></item><item><title>blog.stonegarden.dev</title><link>https://muhammadfajarb.github.io/users/3ec093539269bc4ce9498fe9c36a2b7d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/3ec093539269bc4ce9498fe9c36a2b7d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/3ec093539269bc4ce9498fe9c36a2b7d/feature.jpg"/></item><item><title>renaud.warnotte.be</title><link>https://muhammadfajarb.github.io/users/4f0c88168fb7a348b4393a56ede2e799/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4f0c88168fb7a348b4393a56ede2e799/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4f0c88168fb7a348b4393a56ede2e799/feature.jpg"/></item><item><title>BoringTech.net</title><link>https://muhammadfajarb.github.io/users/82b432ad2bfc873ec725001f0b3ac495/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/82b432ad2bfc873ec725001f0b3ac495/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/82b432ad2bfc873ec725001f0b3ac495/feature.jpg"/></item><item><title>technicaldc.github.io</title><link>https://muhammadfajarb.github.io/users/6a603c5d465ecb2422ed7a96fd55c99c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6a603c5d465ecb2422ed7a96fd55c99c/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6a603c5d465ecb2422ed7a96fd55c99c/feature.jpg"/></item><item><title>alxhslm.github.io</title><link>https://muhammadfajarb.github.io/users/427cec3309be77abe6f19b006b2a3dc0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/427cec3309be77abe6f19b006b2a3dc0/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/427cec3309be77abe6f19b006b2a3dc0/feature.jpg"/></item><item><title>the-maze.net</title><link>https://muhammadfajarb.github.io/users/e518dc969af1ea65a3d0b55630705047/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e518dc969af1ea65a3d0b55630705047/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e518dc969af1ea65a3d0b55630705047/feature.jpg"/></item><item><title>DXPetti.com</title><link>https://muhammadfajarb.github.io/users/0327ac1993f378aa2fc5bbb8a840c9cb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/0327ac1993f378aa2fc5bbb8a840c9cb/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/0327ac1993f378aa2fc5bbb8a840c9cb/feature.jpg"/></item><item><title>asterisk.lol</title><link>https://muhammadfajarb.github.io/users/6e57b74d392f64f3698aee7046cc2606/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6e57b74d392f64f3698aee7046cc2606/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6e57b74d392f64f3698aee7046cc2606/feature.jpg"/></item><item><title>ekwska.com</title><link>https://muhammadfajarb.github.io/users/1314bf3d7ce70ad90f1fc7666032e147/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1314bf3d7ce70ad90f1fc7666032e147/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1314bf3d7ce70ad90f1fc7666032e147/feature.jpg"/></item><item><title>todreamr.github.io</title><link>https://muhammadfajarb.github.io/users/1f88d7c1e8e83b761f84b38daaa8016d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1f88d7c1e8e83b761f84b38daaa8016d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1f88d7c1e8e83b761f84b38daaa8016d/feature.jpg"/></item><item><title>aakashnand.com</title><link>https://muhammadfajarb.github.io/users/a322d57671bf49fe0f2539096f9ed57f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/a322d57671bf49fe0f2539096f9ed57f/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/a322d57671bf49fe0f2539096f9ed57f/feature.jpg"/></item><item><title>innerknowing</title><link>https://muhammadfajarb.github.io/users/1a328ae325c5da884a5b15a1b4d4a446/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1a328ae325c5da884a5b15a1b4d4a446/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1a328ae325c5da884a5b15a1b4d4a446/feature.jpg"/></item><item><title>karlukle.site</title><link>https://muhammadfajarb.github.io/users/7d028665dc1cf54485e6e82a7083ce69/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/7d028665dc1cf54485e6e82a7083ce69/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/7d028665dc1cf54485e6e82a7083ce69/feature.jpg"/></item><item><title>Adam Madej - Gameplay Animator</title><link>https://muhammadfajarb.github.io/users/15cf92fba36f0319bd4b176da554fdb9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/15cf92fba36f0319bd4b176da554fdb9/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/15cf92fba36f0319bd4b176da554fdb9/feature.jpg"/></item><item><title>eallion.com</title><link>https://muhammadfajarb.github.io/users/1f94add7b0ba58983ff507632b822401/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1f94add7b0ba58983ff507632b822401/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1f94add7b0ba58983ff507632b822401/feature.jpg"/></item><item><title>Synaptic Sugar</title><link>https://muhammadfajarb.github.io/users/c0d9928ff3857960ec230178bdec1b8d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/c0d9928ff3857960ec230178bdec1b8d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/c0d9928ff3857960ec230178bdec1b8d/feature.jpg"/></item><item><title>michaeldorner.de</title><link>https://muhammadfajarb.github.io/users/d965f981aa39336ef7be5efac83c96b2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/d965f981aa39336ef7be5efac83c96b2/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/d965f981aa39336ef7be5efac83c96b2/feature.jpg"/></item><item><title>Ignacio Conde</title><link>https://muhammadfajarb.github.io/users/4de384e83ae8af3834cad28f6dfc6966/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4de384e83ae8af3834cad28f6dfc6966/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4de384e83ae8af3834cad28f6dfc6966/feature.jpg"/></item><item><title>MEM v ENNBEE</title><link>https://muhammadfajarb.github.io/users/9f984d61b6086212e76291d2698d0498/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9f984d61b6086212e76291d2698d0498/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9f984d61b6086212e76291d2698d0498/feature.jpg"/></item><item><title>Joshua Blais</title><link>https://muhammadfajarb.github.io/users/807a03786a63504a144bb3b947a2969c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/807a03786a63504a144bb3b947a2969c/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/807a03786a63504a144bb3b947a2969c/feature.jpg"/></item><item><title>Beauty Formulation</title><link>https://muhammadfajarb.github.io/users/04bb53c19a5a817c1a0630b65260909d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/04bb53c19a5a817c1a0630b65260909d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/04bb53c19a5a817c1a0630b65260909d/feature.jpg"/></item><item><title>Middle of Nowhere</title><link>https://muhammadfajarb.github.io/users/4b8c5f7ee72baf8411dae867f9206b63/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/4b8c5f7ee72baf8411dae867f9206b63/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/4b8c5f7ee72baf8411dae867f9206b63/feature.jpg"/></item><item><title>UmmIt - Blog</title><link>https://muhammadfajarb.github.io/users/c506ded8078df151fc8ce943e7ac1c8a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/c506ded8078df151fc8ce943e7ac1c8a/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/c506ded8078df151fc8ce943e7ac1c8a/feature.jpg"/></item><item><title>nveshaan</title><link>https://muhammadfajarb.github.io/users/02c452502ee9a03866c720c14bf86f9e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/02c452502ee9a03866c720c14bf86f9e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/02c452502ee9a03866c720c14bf86f9e/feature.jpg"/></item><item><title>micheledinelli.github.io</title><link>https://muhammadfajarb.github.io/users/27cc5a091bef86a9b5dcfa2c035308ed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/27cc5a091bef86a9b5dcfa2c035308ed/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/27cc5a091bef86a9b5dcfa2c035308ed/feature.jpg"/></item><item><title>kumacat.pages.dev</title><link>https://muhammadfajarb.github.io/users/d52c3523ad809eb1d9ddbcbe32e92661/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/d52c3523ad809eb1d9ddbcbe32e92661/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/d52c3523ad809eb1d9ddbcbe32e92661/feature.jpg"/></item><item><title>andrealucchini.com</title><link>https://muhammadfajarb.github.io/users/bdd6b2db27fb40b3fa79a37659b2f285/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/bdd6b2db27fb40b3fa79a37659b2f285/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/bdd6b2db27fb40b3fa79a37659b2f285/feature.jpg"/></item><item><title>glomyer.dev</title><link>https://muhammadfajarb.github.io/users/af89464ac25ab9445658a3541e623778/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/af89464ac25ab9445658a3541e623778/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/af89464ac25ab9445658a3541e623778/feature.jpg"/></item><item><title>utrodus.com</title><link>https://muhammadfajarb.github.io/users/c562b0e606584dd96159faf763291fe1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/c562b0e606584dd96159faf763291fe1/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/c562b0e606584dd96159faf763291fe1/feature.jpg"/></item><item><title>lazarusoverlook.com</title><link>https://muhammadfajarb.github.io/users/033c87b7e950b82ea500c552c9523367/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/033c87b7e950b82ea500c552c9523367/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/033c87b7e950b82ea500c552c9523367/feature.jpg"/></item><item><title>p3rception.github.io</title><link>https://muhammadfajarb.github.io/users/7596a225b244e0859da338621e680481/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/7596a225b244e0859da338621e680481/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/7596a225b244e0859da338621e680481/feature.jpg"/></item><item><title>Handbook on Teaching Empirical Software Engineering: Online Materials</title><link>https://muhammadfajarb.github.io/users/54b73306674ec7e6778b54a0a8b18b36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/54b73306674ec7e6778b54a0a8b18b36/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/54b73306674ec7e6778b54a0a8b18b36/feature.jpg"/></item><item><title>blog.lofibean.cc</title><link>https://muhammadfajarb.github.io/users/ad989702a19d1fd8add147d6771c6c02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/ad989702a19d1fd8add147d6771c6c02/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/ad989702a19d1fd8add147d6771c6c02/feature.jpg"/></item><item><title>merox.dev</title><link>https://muhammadfajarb.github.io/users/080a851b486ff5be4201f6fbe1f9616d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/080a851b486ff5be4201f6fbe1f9616d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/080a851b486ff5be4201f6fbe1f9616d/feature.jpg"/></item><item><title>Academy Customize</title><link>https://muhammadfajarb.github.io/users/e263f9bb6dcec27003a8f5f947ba5abb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e263f9bb6dcec27003a8f5f947ba5abb/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e263f9bb6dcec27003a8f5f947ba5abb/feature.jpg"/></item><item><title>mrtruongvu.com</title><link>https://muhammadfajarb.github.io/users/837b47128639b5359ade845eae461c3a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/837b47128639b5359ade845eae461c3a/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/837b47128639b5359ade845eae461c3a/feature.jpg"/></item><item><title>StepaniaH</title><link>https://muhammadfajarb.github.io/users/1b3da762734b4fb503e49822ed506dbb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/1b3da762734b4fb503e49822ed506dbb/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/1b3da762734b4fb503e49822ed506dbb/feature.jpg"/></item><item><title>Laterre Dev</title><link>https://muhammadfajarb.github.io/users/447e2f0f6f439b915e0b57f93e49b7d6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/447e2f0f6f439b915e0b57f93e49b7d6/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/447e2f0f6f439b915e0b57f93e49b7d6/feature.jpg"/></item><item><title>WillHack - service for reality hackers</title><link>https://muhammadfajarb.github.io/users/8a994f70010fa98dac2838ddd246224e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/8a994f70010fa98dac2838ddd246224e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/8a994f70010fa98dac2838ddd246224e/feature.jpg"/></item><item><title>Lazy Product Reviews</title><link>https://muhammadfajarb.github.io/users/3fa4eb553f5d984050d2ee4954960034/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/3fa4eb553f5d984050d2ee4954960034/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/3fa4eb553f5d984050d2ee4954960034/feature.jpg"/></item><item><title>zzzhome</title><link>https://muhammadfajarb.github.io/users/46ea5d4b3698fa18fc0b79faa3d89bef/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/46ea5d4b3698fa18fc0b79faa3d89bef/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/46ea5d4b3698fa18fc0b79faa3d89bef/feature.jpg"/></item><item><title>Bootleg Coal Rebellion</title><link>https://muhammadfajarb.github.io/users/915a897f2ea3ba018728d7dce3540b1b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/915a897f2ea3ba018728d7dce3540b1b/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/915a897f2ea3ba018728d7dce3540b1b/feature.jpg"/></item><item><title>Chill-Try</title><link>https://muhammadfajarb.github.io/users/0805e986c2f7265e3bbbfc7bc647ed92/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/0805e986c2f7265e3bbbfc7bc647ed92/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/0805e986c2f7265e3bbbfc7bc647ed92/feature.jpg"/></item><item><title>Hudson McNamara</title><link>https://muhammadfajarb.github.io/users/2d29fadfaf8ddfaee0b69b563bae8d2d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/2d29fadfaf8ddfaee0b69b563bae8d2d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/2d29fadfaf8ddfaee0b69b563bae8d2d/feature.jpg"/></item><item><title>Weg um Weg</title><link>https://muhammadfajarb.github.io/users/eb23ebd26738c98db323eff207dc7c0e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/eb23ebd26738c98db323eff207dc7c0e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/eb23ebd26738c98db323eff207dc7c0e/feature.jpg"/></item><item><title>The Space 🌍</title><link>https://muhammadfajarb.github.io/users/706590b7d6a58b77f0eadb22b1dc6cd5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/706590b7d6a58b77f0eadb22b1dc6cd5/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/706590b7d6a58b77f0eadb22b1dc6cd5/feature.jpg"/></item><item><title>Adri Antunez's Cloud Site</title><link>https://muhammadfajarb.github.io/users/6057b72b4986ae88640d46262a4be0a0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/6057b72b4986ae88640d46262a4be0a0/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/6057b72b4986ae88640d46262a4be0a0/feature.jpg"/></item><item><title>irusukan</title><link>https://muhammadfajarb.github.io/users/e3f304eacd2f79e31f294cae0ff8162e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e3f304eacd2f79e31f294cae0ff8162e/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e3f304eacd2f79e31f294cae0ff8162e/feature.jpg"/></item><item><title>FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title><link>https://muhammadfajarb.github.io/users/405727a6fae1350173ef8915b4c9eb7d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/405727a6fae1350173ef8915b4c9eb7d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/405727a6fae1350173ef8915b4c9eb7d/feature.jpg"/></item><item><title>blog.francescopapini.com</title><link>https://muhammadfajarb.github.io/users/a615163aad4c6bb5746a697a9450d563/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/a615163aad4c6bb5746a697a9450d563/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/a615163aad4c6bb5746a697a9450d563/feature.jpg"/></item><item><title>Kyo's Garden</title><link>https://muhammadfajarb.github.io/users/9d162f4046cb83c367d8d8ab57240711/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/9d162f4046cb83c367d8d8ab57240711/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/9d162f4046cb83c367d8d8ab57240711/feature.jpg"/></item><item><title>abantikabhuti.github.io</title><link>https://muhammadfajarb.github.io/users/7c98d8b7ba531e032abcd675d4f49c17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/7c98d8b7ba531e032abcd675d4f49c17/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/7c98d8b7ba531e032abcd675d4f49c17/feature.jpg"/></item><item><title>yag0x1.github.io</title><link>https://muhammadfajarb.github.io/users/e4f1c9a4c352ea63707824576d889c8f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/e4f1c9a4c352ea63707824576d889c8f/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/e4f1c9a4c352ea63707824576d889c8f/feature.jpg"/></item><item><title>caytejohn.xyz</title><link>https://muhammadfajarb.github.io/users/bfe9e12b443e96f40b05b584166636f5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/bfe9e12b443e96f40b05b584166636f5/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/users/bfe9e12b443e96f40b05b584166636f5/feature.jpg"/></item><item><title>Build your homepage using Blowfish and Hugo</title><link>https://muhammadfajarb.github.io/blog/2025/08/04/build-your-homepage-using-blowfish-and-hugo/</link><pubDate>Mon, 04 Aug 2025 06:47:00 +0800</pubDate><guid>https://muhammadfajarb.github.io/blog/2025/08/04/build-your-homepage-using-blowfish-and-hugo/</guid><description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/blog/2025/08/04/build-your-homepage-using-blowfish-and-hugo/featured.jpg"/></item><item><title>Build your homepage using Blowfish and Hugo</title><link>https://muhammadfajarb.github.io/guides/202310-blowfish-tutorial/</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/guides/202310-blowfish-tutorial/</guid><description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/guides/202310-blowfish-tutorial/featured.jpg"/></item><item><title>Blowfish Tutorial</title><link>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.it/</link><pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.it/</guid><description/></item><item><title>Blowfish Tutorial</title><link>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.zh-cn/</link><pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.zh-cn/</guid><description/></item><item><title>Blowfish チュートリアル</title><link>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.ja/</link><pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-tutorial/_index.ja/</guid><description/></item><item><title>Blowfish Tutorial - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.it/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.it/</guid><description/></item><item><title>Blowfish Tutorial - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.zh-cn/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.zh-cn/</guid><description/></item><item><title>Blowfish チュートリアル - レポジトリ</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.ja/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-tutorial/_index.ja/</guid><description/></item><item><title>Blowfish Lite</title><link>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.it/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.it/</guid><description/></item><item><title>Blowfish Lite</title><link>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.ja/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.ja/</guid><description/></item><item><title>Blowfish Lite</title><link>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.zh-cn/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lite/_index.zh-cn/</guid><description/></item><item><title>Blowfish Artist</title><link>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.it/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.it/</guid><description/></item><item><title>Blowfish Artist</title><link>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.ja/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.ja/</guid><description/></item><item><title>Blowfish Artist</title><link>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.zh-cn/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-artist/_index.zh-cn/</guid><description/></item><item><title>Blowfish Lowkey</title><link>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.it/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.it/</guid><description/></item><item><title>Blowfish Lowkey</title><link>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.ja/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.ja/</guid><description/></item><item><title>Blowfish Lowkey</title><link>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.zh-cn/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-lowkey/_index.zh-cn/</guid><description/></item><item><title>Multiple Authors</title><link>https://muhammadfajarb.github.io/samples/multiple-authors/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/multiple-authors/</guid><description>A quick example of how multiple authors could be used.</description></item><item><title>Thumbnails</title><link>https://muhammadfajarb.github.io/samples/thumbnail_sample/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/thumbnail_sample/</guid><description>A quick example of how to start using Thumbnails in your artciles.</description></item><item><title>Blowfish Lite - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.it/</link><pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.it/</guid><description/></item><item><title>Blowfish Lite - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.zh-cn/</link><pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.zh-cn/</guid><description/></item><item><title>Blowfish Lite - レポジトリ</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.ja/</link><pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lite/_index.ja/</guid><description/></item><item><title>Blowfish Artist - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.it/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.it/</guid><description/></item><item><title>Blowfish Artist - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.zh-cn/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.zh-cn/</guid><description/></item><item><title>Blowfish Artist - レポジトリ</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.ja/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-artist/_index.ja/</guid><description/></item><item><title>Blowfish Lowkey - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.it/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.it/</guid><description/></item><item><title>Blowfish Lowkey - Repo</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.zh-cn/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.zh-cn/</guid><description/></item><item><title>Blowfish Lowkey - レポジトリ</title><link>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.ja/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/repo-blowfish-lowkey/_index.ja/</guid><description/></item><item><title>Blowfish Template</title><link>https://muhammadfajarb.github.io/examples/blowfish-template/_index.it/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template/_index.it/</guid><description/></item><item><title>Blowfish Template</title><link>https://muhammadfajarb.github.io/examples/blowfish-template/_index.zh-cn/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template/_index.zh-cn/</guid><description/></item><item><title>Blowfish Template - GitHub Repo</title><link>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.it/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.it/</guid><description/></item><item><title>Blowfish Template - GitHub Repo</title><link>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.zh-cn/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.zh-cn/</guid><description/></item><item><title>Blowfish テンプレート</title><link>https://muhammadfajarb.github.io/examples/blowfish-template/_index.ja/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template/_index.ja/</guid><description/></item><item><title>Blowfish テンプレート - GitHub レポジトリ</title><link>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.ja/</link><pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/blowfish-template-repo/_index.ja/</guid><description/></item><item><title>Icons</title><link>https://muhammadfajarb.github.io/samples/icons/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/icons/</guid><description>&lt;p>Blowfish has built-in support for a number of &lt;a
+href="https://fontawesome.com/icons"
+target="_blank"
+>FontAwesome 6&lt;/a> icons. These can be included in your website through either the &lt;a
+href="https://muhammadfajarb.github.io/docs/partials/#icon">icon partial&lt;/a> or &lt;a
+href="https://muhammadfajarb.github.io/docs/shortcodes/#icon">icon shortcode&lt;/a>.&lt;/p>
+&lt;p>Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the &lt;code>assets/icons/&lt;/code> directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order to achieve automatic color filling, every SVG path needs the &lt;code>fill=&amp;quot;currentColor&amp;quot;&lt;/code> XML attribute.&lt;/p></description></item><item><title>Users</title><link>https://muhammadfajarb.github.io/users/users/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/users/</guid><description>&lt;p>Real websites that are built with Blowfish. Check the full list in &lt;a
+href="https://muhammadfajarb.github.io/users/users.json">JSON format&lt;/a>.&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Blowfish user?&lt;/strong> To add your site to this list, &lt;a
+href="https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json"
+target="_blank"
+>submit a pull request&lt;/a>.&lt;/span>
+&lt;/div>
+&lt;/BR></description></item><item><title>ユーザー</title><link>https://muhammadfajarb.github.io/users/users/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/users/</guid><description>&lt;p>Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一覧は &lt;a
+href="https://muhammadfajarb.github.io/users/users.json">JSON 形式&lt;/a> で閲覧可能です。&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>Blowfish ユーザーですか?&lt;/strong> この一覧にあなたのサイトを加える際は、 &lt;a
+href="https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json"
+target="_blank"
+>pull request を送信&lt;/a> してください。&lt;/span>
+&lt;/div>
+&lt;/BR></description></item><item><title>用户列表</title><link>https://muhammadfajarb.github.io/users/users/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/users/users/</guid><description>&lt;p>这里有使用 Blowfish 构建的网站实例。点击&lt;a
+href="https://muhammadfajarb.github.io/users/users.json">这里&lt;/a>以 JSON 形式查看完整列表。&lt;/p>
+&lt;div
+class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+>
+&lt;span
+class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+>
+&lt;span class="relative block icon">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">&lt;path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/>&lt;/svg>
+&lt;/span>
+&lt;/span>
+&lt;span
+class="dark:text-neutral-300"
+>&lt;strong>您也是 Blowfish 用户？&lt;/strong> &lt;a
+href="https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json"
+target="_blank"
+>提交 PR&lt;/a>来把你的网站加入此列表。&lt;/span>
+&lt;/div>
+&lt;/BR></description></item><item><title>Markdown</title><link>https://muhammadfajarb.github.io/samples/markdown/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/markdown/</guid><description>&lt;p>This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p></description></item><item><title>Rich Content</title><link>https://muhammadfajarb.github.io/samples/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/rich-content/</guid><description>This is an &lt;em>example&lt;/em> of a &lt;strong>rich&lt;/strong> content summary.</description></item><item><title>Placeholder Text</title><link>https://muhammadfajarb.github.io/samples/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Mathematical notation</title><link>https://muhammadfajarb.github.io/samples/mathematical-notation/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/mathematical-notation/</guid><description>&lt;p>KaTeX can be used to render mathematical notation within articles.&lt;/p></description></item><item><title>Charts</title><link>https://muhammadfajarb.github.io/samples/charts/</link><pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/charts/</guid><description>Blowfish includes Chart.js for powerful charts and data visualisations.</description></item><item><title>Diagrams and Flowcharts</title><link>https://muhammadfajarb.github.io/samples/diagrams-flowcharts/</link><pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/diagrams-flowcharts/</guid><description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description></item><item><title>Emoji :parachute:</title><link>https://muhammadfajarb.github.io/samples/emoji/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/emoji/</guid><description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description></item><item><title>Recipe Template</title><link>https://muhammadfajarb.github.io/guides/template/</link><pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/guides/template/</guid><description>&lt;p>Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.&lt;/p>
+&lt;h2 class="relative group">How to start?
+&lt;div id="how-to-start" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#how-to-start" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.&lt;/p>
+&lt;h2 class="relative group">Clone Blowfish
+&lt;div id="clone-blowfish" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#clone-blowfish" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Clone this repo with the following command:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git clone https://github.com/nunocoracao/blowfish.git
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h2 class="relative group">Setup your files
+&lt;div id="setup-your-files" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-your-files" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Copy and paste the entire folder where this &lt;code>.md&lt;/code> file is.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://muhammadfajarb.github.io/guides/template/featured.jpg"/></item><item><title>2人目のダミー作者</title><link>https://muhammadfajarb.github.io/authors/secondauthor/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/secondauthor/_index.ja/</guid><description>&lt;p>2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p></description></item><item><title>Advanced</title><link>https://muhammadfajarb.github.io/tags/advanced/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/advanced/_index.it/</guid><description>&lt;p>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:&lt;/p>
+&lt;p>You can also use these content pages to define Hugo metadata like titles and descriptions that will be used for SEO and other purposes.&lt;/p></description></item><item><title>Campioni</title><link>https://muhammadfajarb.github.io/samples/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/_index.it/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish dà vita ai tuoi contenuti. :heart_eyes:
+&lt;/div>
+&lt;p>Questa sezione contiene alcune pagine demo che mostrano come Blowfish esegue il rendering di diversi tipi di contenuto. Puoi anche vedere una pagina di esempio &lt;a
+href="https://muhammadfajarb.github.io/tags/">elenco tassonomia&lt;/a>.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Nota a margine:&lt;/strong> Questa pagina è solo un elenco standard di articoli Blowfish e Hugo è stato configurato per generare un tipo di contenuto &amp;ldquo;campioni&amp;rdquo; e visualizzare riepiloghi degli articoli.&lt;/em>&lt;/p></description></item><item><title>Documenti</title><link>https://muhammadfajarb.github.io/docs/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/_index.it/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Semplice ma potente. Scopri come utilizzare Blowfish e le sue funzionalità.
+&lt;/div>
+&lt;p>Questa sezione contiene tutto ciò che devi sapere su Blowfish. Se sei nuovo, consulta la guida &lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">Installazione&lt;/a> per iniziare o visita la sezione &lt;a
+href="https://muhammadfajarb.github.io/samples/">Esempi&lt;/a> per vedere cosa può fare Blowfish.&lt;/p></description></item><item><title>Dummy Second Author</title><link>https://muhammadfajarb.github.io/authors/secondauthor/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/secondauthor/_index.zh-cn/</guid><description>&lt;p>假装这里有一份第二位作者的简介。&lt;/p></description></item><item><title>Esempio di elenco di tassonomia degli autori</title><link>https://muhammadfajarb.github.io/authors/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/_index.it/</guid><description>&lt;p>Un rapido esempio di come iniziare a utilizzare le tassonomie degli autori nei tuoi articoli.&lt;/p></description></item><item><title>Nuno Coraçao</title><link>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.it/</guid><description>&lt;p>La fantastica biografia di Nuno.&lt;/p></description></item><item><title>Nuno Coração</title><link>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.ja/</guid><description>&lt;p>Nuno の素晴らしいダミープロフィールです。&lt;/p></description></item><item><title>Nuno Coração</title><link>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/muhammadfajarb/_index.zh-cn/</guid><description>&lt;p>假装这里有一份 Nuno 的简介。&lt;/p></description></item><item><title>Recipes</title><link>https://muhammadfajarb.github.io/guides/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/guides/_index.it/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Recipes, guides, and tutorials for Blowfish
+&lt;/div>
+&lt;p>&lt;strong>Blowfish user?&lt;/strong> To add your guide to this list, &lt;a
+href="https://muhammadfajarb.github.io/guides/template/">check the template&lt;/a>.&lt;/p>
+&lt;p>This section contains guides for a variety of scenarios on how to configure your theme. If you&amp;rsquo;re new, check out the &lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">Installation&lt;/a> guide to begin or visit the &lt;a
+href="https://muhammadfajarb.github.io/samples/">Samples&lt;/a> section to see what Blowfish can do.&lt;/p>
+&lt;hr></description></item><item><title>Secondo autore fittizio</title><link>https://muhammadfajarb.github.io/authors/secondauthor/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/secondauthor/_index.it/</guid><description>&lt;p>La fantastica biografia fittizia di Dummy Second Author.&lt;/p></description></item><item><title>Showcase</title><link>https://muhammadfajarb.github.io/examples/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/_index.it/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+See what&amp;rsquo;s possible with Blowfish.
+&lt;/div>
+&lt;p>This section contains links to example templates and pages created using Blowfish to get you inspired.&lt;/p>
+&lt;hr></description></item><item><title>Showcase</title><link>https://muhammadfajarb.github.io/examples/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/_index.zh-cn/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+See what&amp;rsquo;s possible with Blowfish.
+&lt;/div>
+&lt;p>This section contains links to example templates and pages created using Blowfish to get you inspired.&lt;/p>
+&lt;hr></description></item><item><title>Tag</title><link>https://muhammadfajarb.github.io/tags/_index.it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/_index.it/</guid><description>&lt;p>Blowfish ha il pieno supporto per le tassonomie Hugo e si adatterà a qualsiasi impostazione tassonomica. Gli elenchi di tassonomia come questo supportano anche il contenuto personalizzato da visualizzare sopra l&amp;rsquo;elenco dei termini.&lt;/p>
+&lt;p>Quest&amp;rsquo;area può essere utilizzata per aggiungere testo descrittivo aggiuntivo a ciascuna tassonomia. Dai un&amp;rsquo;occhiata al &lt;a
+href="https://muhammadfajarb.github.io/tags/advanced/">tag avanzato&lt;/a> di seguito per vedere come portare questo concetto ancora oltre.&lt;/p>
+&lt;hr></description></item><item><title>サンプル</title><link>https://muhammadfajarb.github.io/samples/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/_index.ja/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish はあなたのコンテンツに命を宿します。:heart_eyes:
+&lt;/div>
+&lt;p>このセクションは、 Blowfish で様々な種類のコンテンツをどのように表示するのかを紹介するデモページを含みます。例としては&lt;a
+href="https://muhammadfajarb.github.io/tags/">分類一覧&lt;/a>ページも参考になります。&lt;/p>
+&lt;p>&lt;em>&lt;strong>サイドノート:&lt;/strong> このページは一般的な Blowfish のリストで、 Hugo が生成した &lt;code>samples&lt;/code> コンテンツタイプと記事の要約を表示する様に設定しています。&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>ショーケース</title><link>https://muhammadfajarb.github.io/examples/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/examples/_index.ja/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish で何が出来るか見てみる。
+&lt;/div>
+&lt;p>このセクションはテンプレートの例やインスピレーションを得ることの出来る Blowfish を使用して作成されたページのリンクがあります。&lt;/p>
+&lt;hr></description></item><item><title>タグ</title><link>https://muhammadfajarb.github.io/tags/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/_index.ja/</guid><description>&lt;p>Blowfish は Hugo の分類システムを完全にサポートし、どのような分類システムの設定でも適合できます。このような分類システムのリストは、用語リストの上に表示されるカスタムコンテンツもサポートしています。&lt;/p>
+&lt;p>このエリアはそれぞれの分類システムに追加の説明をする時に利用します。以下の&lt;a
+href="https://muhammadfajarb.github.io/tags/advanced/">高度なタグ&lt;/a>を確認して、このコンセプトをさらに発展させる方法をご覧ください。&lt;/p>
+&lt;hr></description></item><item><title>ドキュメント</title><link>https://muhammadfajarb.github.io/docs/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/_index.ja/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+シンプル、それでいて強力。 Blowfish の利用方法と特徴について学ぶ。
+&lt;/div>
+&lt;p>このセクションでは、Blowfish について知っておくべきことをすべて網羅しています。初めての方は、まず&lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">インストール&lt;/a>ガイドをご覧いただくか、&lt;a
+href="https://muhammadfajarb.github.io/samples/">サンプル&lt;/a>セクションで Blowfish で何ができるかを確認してみてください。&lt;/p>
+&lt;hr></description></item><item><title>レシピ</title><link>https://muhammadfajarb.github.io/guides/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/guides/_index.ja/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish のためのレシピ、ガイド、チュートリアル
+&lt;/div>
+&lt;p>&lt;strong>Blowfish ユーザーですか?&lt;/strong> この一覧にあなたのガイドを加える際は、&lt;a
+href="https://muhammadfajarb.github.io/guides/template/">テンプレートを確認&lt;/a>してください。&lt;/p>
+&lt;p>このセクションではあなたのテーマの設定方法する様々なシナリオを含んでいます。新しく作成する場合は、開始するために&lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">インストール&lt;/a>ガイド、または Blowfish が何が出来るか&lt;a
+href="https://muhammadfajarb.github.io/samples/">サンプル&lt;/a>セクションに訪れてください。&lt;/p>
+&lt;hr></description></item><item><title>作者列表示例</title><link>https://muhammadfajarb.github.io/authors/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/_index.zh-cn/</guid><description>&lt;p>在你的文章中添加不同作者的简单示例。&lt;/p></description></item><item><title>使用指南</title><link>https://muhammadfajarb.github.io/guides/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/guides/_index.zh-cn/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish 的使用指南和教程
+&lt;/div>
+&lt;p>&lt;strong>您是 Blowfish 的用户吗?&lt;/strong> 要将您自己编写的指南添加到此列表，请查看&lt;a
+href="https://muhammadfajarb.github.io/guides/template/">参考模板&lt;/a>。&lt;/p>
+&lt;p>本部分包含有关如何配置主题的各种指南。如果您是新用户，请查看 &lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">安装&lt;/a> 指南或查看 &lt;a
+href="https://muhammadfajarb.github.io/samples/">示例&lt;/a> 部分来了解 Blowfish 能做出什么效果的网页。&lt;/p>
+&lt;hr></description></item><item><title>文档</title><link>https://muhammadfajarb.github.io/docs/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/docs/_index.zh-cn/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+了解如何使用简单而强大的 Blowfish。
+&lt;/div>
+&lt;p>本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a
+href="https://muhammadfajarb.github.io/docs/installation/">安装&lt;/a> 指南，或者访问&lt;a
+href="https://muhammadfajarb.github.io/samples/">示例&lt;/a> 来了解 Blowfish 能做什么。&lt;/p>
+&lt;hr></description></item><item><title>标签</title><link>https://muhammadfajarb.github.io/tags/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/_index.zh-cn/</guid><description>&lt;p>Blowfish 支持基于 Hugo 的所有分类方法。同时，当前的标签预览页也支持展示自定义内容。&lt;/p>
+&lt;p>在这里可以为每个分类添加额外的描述信息。查看下面的&lt;a
+href="https://muhammadfajarb.github.io/tags/advanced/">高级标签&lt;/a>页面，了解更多。&lt;/p>
+&lt;hr></description></item><item><title>示例</title><link>https://muhammadfajarb.github.io/samples/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/samples/_index.zh-cn/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+Blowfish 让你的内容栩栩如生。 :heart_eyes:
+&lt;/div>
+&lt;p>本节包含一些示例页面，展示了Blowfish如何呈现不同类型的内容。你还可以参考&lt;a
+href="https://muhammadfajarb.github.io/tags/">标签&lt;/a>页面的示例。&lt;/p>
+&lt;p>&lt;em>&lt;strong>旁注：&lt;/strong> 这个页面只是一个标准的Blowfish文章列表，并且已经配置了Hugo来生成一个 &lt;code>samples&lt;/code> 内容类型并显示文章摘要。&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>著者のタクソノミーリストの例</title><link>https://muhammadfajarb.github.io/authors/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/authors/_index.ja/</guid><description>&lt;p>あなたの記事で著者のタクソノミーを使う方法の簡単な例です。&lt;/p></description></item><item><title>高度なタグ</title><link>https://muhammadfajarb.github.io/tags/advanced/_index.ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/advanced/_index.ja/</guid><description>&lt;p>こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項にカスタムコンテンツの追加やそれを条項リストの一番上に表示することが可能です。:rocket:&lt;/p>
+&lt;p>タイトルや説明など SEO や他の目的に利用するためのHugo のメタデータを定義するためにこれらのコンテンツページも利用可能です。&lt;/p></description></item><item><title>高级</title><link>https://muhammadfajarb.github.io/tags/advanced/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://muhammadfajarb.github.io/tags/advanced/_index.zh-cn/</guid><description>&lt;p>这是高级标记。类似其他 Blowfish 中的其他列表页面，你可以在分类列表页添加自定义内容，这部分内容会显示在顶部。:rocket:&lt;/p>
+&lt;p>你也可以用这些内容来定义 Hugo 的元数据，比如标题和描述。这些内容可以被用来增强 SEO 或其他目的。&lt;/p></description></item></channel></rss>
